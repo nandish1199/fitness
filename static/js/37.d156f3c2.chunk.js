@@ -1,0 +1,2 @@
+(this.webpackJsonpapponreact=this.webpackJsonpapponreact||[]).push([[37],{96:function(t,n,o){"use strict";o.r(n);o(0);var c=o(2);n.default=function(){return Object(c.jsx)(c.Fragment,{children:Object(c.jsx)("button",{onClick:function(){window.scrollTo(0,0)},className:"scrollTop",style:{position:"fixed",bottom:15,right:15,background:"cyan",padding:5,zIndex:3,borderRadius:30,opacity:.7},children:Object(c.jsx)("i",{class:"fas fa-arrow-up"})})})}}}]);
+//# sourceMappingURL=37.d156f3c2.chunk.js.map

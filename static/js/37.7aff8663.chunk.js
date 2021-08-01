@@ -1,0 +1,2 @@
+(this.webpackJsonpawesomeapp=this.webpackJsonpawesomeapp||[]).push([[37],{96:function(o,s,t){"use strict";t.r(s);t(0);var a=t(2);s.default=function(){return Object(a.jsx)(a.Fragment,{children:Object(a.jsx)("button",{onClick:function(){window.scrollTo(0,0)},className:"scrollTop",style:{position:"fixed",bottom:15,right:15,background:"cyan",padding:5,zIndex:3,borderRadius:30,opacity:.7},children:Object(a.jsx)("i",{class:"fas fa-arrow-up"})})})}}}]);
+//# sourceMappingURL=37.7aff8663.chunk.js.map
